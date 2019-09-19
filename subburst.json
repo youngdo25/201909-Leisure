@@ -3,7 +3,7 @@
  "children": [
   
   {
-   "name": "animate",
+   "name": "애니메이트",
    "children": [
     {"name": "Easing", "value": 17010},
     {"name": "FunctionSequence", "value": 5842},
